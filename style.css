@@ -1,7 +1,7 @@
 
 .v{
     background-color: blueviolet;
-    background-image: url(/images/bobun-light-square.jpg);
+    background-image: url(src/images/bobun-light-square.jpg);
     width: 600px;
     height: 600px;
 }
